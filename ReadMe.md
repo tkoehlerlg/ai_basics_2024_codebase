@@ -25,9 +25,10 @@ To run the project:
 
 ## Running the Models
 
-1. Once the notebook is open in Google Colab, you can run the cells in order.
-2. If prompted, allow the notebook to access your Google Drive (for saving outputs).
-3. The notebooks are set up to use Google Colab's GPU. To ensure it's enabled:
+1. Once the notebook is open in Google Colab, please add the Dataset file as described in the **Dataset** Section.
+2. You can now run the cells in order.
+3. If prompted, allow the notebook to access your Google Drive (for saving outputs).
+4. The notebooks are set up to use Google Colab's GPU. To ensure it's enabled:
    - Go to 'Runtime' > 'Change runtime type'
    - Set 'Hardware accelerator' to 'GPU'
    - Click 'Save'
