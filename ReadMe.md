@@ -32,7 +32,7 @@ To run the project:
    - Set 'Hardware accelerator' to 'GPU'
    - Click 'Save'
 
-Note: The notebooks are designed to be self-contained, including data loading, preprocessing, model definition, training, and evaluation.
+Note: The notebooks are designed to be self-contained, including preprocessing, model definition, training, and evaluation.
 
 ## Dataset
 
